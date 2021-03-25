@@ -1,3 +1,6 @@
 hi 
 this is my first git bash practice session 
 and i am learning git bash
+
+hello world
+nkjxjsjisjxij
